@@ -1,0 +1,10 @@
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\bin\Debug\WebServiceForm.exe.config
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\bin\Debug\WebServiceForm.exe
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\bin\Debug\WebServiceForm.pdb
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\obj\Debug\WebServiceForm.csprojResolveAssemblyReference.cache
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\obj\Debug\WebServiceForm.Form1.resources
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\obj\Debug\WebServiceForm.Properties.Resources.resources
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\obj\Debug\WebServiceForm.csproj.GenerateResource.cache
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\obj\Debug\WebServiceForm.csproj.CoreCompileInputs.cache
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\obj\Debug\WebServiceForm.exe
+C:\Users\azedine\Source\Repos\WebServiceConsole\WebServiceForm\obj\Debug\WebServiceForm.pdb

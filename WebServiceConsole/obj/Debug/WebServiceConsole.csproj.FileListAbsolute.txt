@@ -1,0 +1,7 @@
+c:\users\azedine\Source\Repos\WebServiceConsole\WebServiceConsole\bin\Debug\WebServiceConsole.exe.config
+c:\users\azedine\Source\Repos\WebServiceConsole\WebServiceConsole\bin\Debug\WebServiceConsole.exe
+c:\users\azedine\Source\Repos\WebServiceConsole\WebServiceConsole\bin\Debug\WebServiceConsole.pdb
+c:\users\azedine\Source\Repos\WebServiceConsole\WebServiceConsole\obj\Debug\WebServiceConsole.csproj.CoreCompileInputs.cache
+c:\users\azedine\Source\Repos\WebServiceConsole\WebServiceConsole\obj\Debug\WebServiceConsole.exe
+c:\users\azedine\Source\Repos\WebServiceConsole\WebServiceConsole\obj\Debug\WebServiceConsole.pdb
+c:\users\azedine\Source\Repos\WebServiceConsole\WebServiceConsole\obj\Debug\WebServiceConsole.csprojResolveAssemblyReference.cache
